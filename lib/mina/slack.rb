@@ -1,3 +1,6 @@
+require 'rake'
+require 'mina'
+require 'mina/slack/version'
 require 'mina/slack/defaults'
 require 'mina/slack/tasks'
 require 'json'
